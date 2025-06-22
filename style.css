@@ -42,10 +42,15 @@ body{
   transform: translate(0);
 }
 
-h1{
+.hero-slogan{
   font-family: 'astragala';
   font-weight: 800;
 }
+
+/* h1{
+  font-family: 'astragala';
+  font-weight: 800;
+} */
 
 /* Header */
 
@@ -66,7 +71,7 @@ nav{
   flex: 1;
   font-weight: bolder;
  
-  font-family: "Micro 5 Charted", sans-serif;
+  /* font-family: "Micro 5 Charted", sans-serif; */
   font-weight: 400;
   font-style: normal;
   font-size: 2.25rem;
